@@ -23,7 +23,7 @@
     "branch": "master"
   },
   "repository": {
-    "url": "http://"
+    "url": "https://github.com/StefanNieuwenhuis/semantic-release-test.git"
   },
   "keywords": [],
   "author": "",
