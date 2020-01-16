@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/StefanNieuwenhuis/semantic-release-test/compare/v0.2.1...v0.3.0) (2020-01-16)
+
+
+### Features
+
+* **builder:** add builder to the game ([beeabbc](https://github.com/StefanNieuwenhuis/semantic-release-test/commit/beeabbce261e1f1dd7db3553e4d066f171a1f513))
+
 ## [0.2.1](https://github.com/StefanNieuwenhuis/semantic-release-test/compare/v0.2.0...v0.2.1) (2020-01-15)
 
 
