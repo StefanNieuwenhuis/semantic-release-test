@@ -1,3 +1,10 @@
+# [0.4.0](https://github.com/StefanNieuwenhuis/semantic-release-test/compare/v0.3.0...v0.4.0) (2020-01-16)
+
+
+### Features
+
+* **licence:** add licence ([8ceffbe](https://github.com/StefanNieuwenhuis/semantic-release-test/commit/8ceffbe469098aa9c3d03388b38573900143edf2))
+
 # [0.3.0](https://github.com/StefanNieuwenhuis/semantic-release-test/compare/v0.2.1...v0.3.0) (2020-01-16)
 
 
