@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "npx semantic-release --no-ci"
   },
+  "files": [
+    "builder"
+  ],
   "release": {
     "plugins": [
       "@semantic-release/commit-analyzer",
@@ -14,7 +17,7 @@
       [
         "@semantic-release/npm",
         {
-          "npmPublish": false
+          "npmPublish": true
         }
       ],
       "@semantic-release/changelog",
